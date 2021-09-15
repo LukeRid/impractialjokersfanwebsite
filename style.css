@@ -1,0 +1,13 @@
+img{
+    color: red; width: 30%;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+button
+{
+    padding: 30px;
+}
